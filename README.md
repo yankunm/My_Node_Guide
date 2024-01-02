@@ -47,6 +47,14 @@ Some useful Process properties and methods are:
 
 ### File System Module
 
+With Node you can interact with the File System. Some common things to use are:
+
+* **`require('fs')`** - requiring (importing) a module 
+* **`mkdir(name)`/`mkdirSync(name)`** - asynchronous and synchronous (blocking the whole process) ways of making directories
+* **`writeFile(file, data)` / `writeFileSync(file, data)`** - creates and writes data to file
+
+Note: synchronous should be wrapped with try-catch statemenets
+
 
 
 
