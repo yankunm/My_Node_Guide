@@ -1,7 +1,5 @@
 # Modules and NPM
 
-Creating Package.json files
-
 The most useful skills a developer must have is how to **work with modules** and packages using **the Node Package Manager** (npm).
 
 ## Working with Modules
