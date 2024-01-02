@@ -52,6 +52,8 @@ A `package.json` app is in every node app. It is **metadata**. It contains all *
 
 You can create it with `npm init`.
 
+To automatically download all dependencies required, just run `node install`.
+
 
 
 
